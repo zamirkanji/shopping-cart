@@ -21,11 +21,16 @@ function App () {
   return (
     <div className="App">
       <BrowserRouter>
-        <h1>hello</h1>
+        {/* <h1>hello</h1> */}
         <Routes>
-          <Route path='/' element={<HomePage />}/>
-          <Route path='/shoppingPage' element={<ShoppingPage />}/>
-          <Route path='*' element={<ErrorPage />}/>
+          <Route path='/' element={<HomePage />}>
+            <Route path='/shoppingPage' element={<ShoppingPage />}/>
+            <Route path='*' element={<ErrorPage />}/>
+            <Route
+              index
+              element={<div>Default Page Content</div>}
+            />
+          </Route>
         </Routes>
       </BrowserRouter>
     </div>

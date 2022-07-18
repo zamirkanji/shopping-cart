@@ -1,12 +1,11 @@
-import { IconButton } from '@mui/material';
-// import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
-// import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
+import IconButton from '@mui/material/IconButton';
+import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
 
 export default function Header () {
     return (
         <div className="header-container">
             <IconButton color="primary" aria-label="add to shopping cart">
-                {/* <AddShoppingCartIcon /> */}
+                <AddShoppingCartIcon />
             </IconButton>
             <h1>Shop Skins!</h1>
         </div>
