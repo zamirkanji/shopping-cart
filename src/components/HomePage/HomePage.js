@@ -7,15 +7,7 @@ export default function HomePage() {
   return (
     <div className="homepage-container">
       <main>
-        <div className="main-container">
-          <button>
-            <Link 
-              to={'/shoppingPage'} 
-              className="Link"
-            />
-          </button>
-        </div>
-        {/* <img 
+        <img 
           src={valorant_background} 
           alt="Valorant Background"
           id="bg"
@@ -23,7 +15,18 @@ export default function HomePage() {
             // width: "50px", height: "50px"
             opacity: ".25"
           }} 
-        /> */}
+        />
+        <div className="main-container">
+          <div>
+            <p>TEST</p>
+          </div>
+          <button>
+            <Link 
+              to={'/shoppingPage'} 
+              className="Link"
+            />
+          </button>
+        </div> 
       </main>
     </div>
   );

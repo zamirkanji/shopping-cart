@@ -1,8 +1,10 @@
+import './Footer.css';
+
 export default function Footer () {
     return (
-        <footer>
+        <footer className='footer-container'>
             <p style={{
-                color: "black", 
+                color: "white", 
                 fontSize: "16px"
             }}>
                 Made for The Odin Project - Zamir Kanji

@@ -1,0 +1,10 @@
+.footer-container {
+    flex: .25;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.954);
+    /* flex: 1; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}

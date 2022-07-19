@@ -1,7 +1,6 @@
 main {
     flex: .5;
-    /* flex: .5;
-    background: url(./assets/images/background_image/valorant_background.jpg) no-repeat center center fixed; 
+    /* background: url(./assets/images/background_image/valorant_background.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -12,6 +11,16 @@ main {
     background-color: black;
 }
 
+img {
+    background: url(/src/assets/images/background_image/valorant_background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+    z-index: 0;
+}
+
 .main-container {
-    background-color: black;
+    height: 100%;
+    /* background-color: black; */
 }
