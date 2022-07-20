@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shopping-cart/static/css/main.e385c255.css",
-    "main.js": "/shopping-cart/static/js/main.11abdb0d.js",
+    "main.css": "/shopping-cart/static/css/main.2329df4f.css",
+    "main.js": "/shopping-cart/static/js/main.6dd046af.js",
     "static/js/787.d6fe38e8.chunk.js": "/shopping-cart/static/js/787.d6fe38e8.chunk.js",
     "static/media/valorant_background.jpg": "/shopping-cart/static/media/valorant_background.27983b5a822ac1544929.jpg",
     "static/media/valorant-sentinels-of-light-bundle.jpeg": "/shopping-cart/static/media/valorant-sentinels-of-light-bundle.53c67bef0b598ceedc85.jpeg",
@@ -16,12 +16,12 @@
     "static/media/valorant-oni-bundle.webp": "/shopping-cart/static/media/valorant-oni-bundle.ff0ab9f12542f82f99cd.webp",
     "static/media/valorant-singularity-bundle.webp": "/shopping-cart/static/media/valorant-singularity-bundle.1749cd4cd5b012594a36.webp",
     "index.html": "/shopping-cart/index.html",
-    "main.e385c255.css.map": "/shopping-cart/static/css/main.e385c255.css.map",
-    "main.11abdb0d.js.map": "/shopping-cart/static/js/main.11abdb0d.js.map",
+    "main.2329df4f.css.map": "/shopping-cart/static/css/main.2329df4f.css.map",
+    "main.6dd046af.js.map": "/shopping-cart/static/js/main.6dd046af.js.map",
     "787.d6fe38e8.chunk.js.map": "/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e385c255.css",
-    "static/js/main.11abdb0d.js"
+    "static/css/main.2329df4f.css",
+    "static/js/main.6dd046af.js"
   ]
 }
