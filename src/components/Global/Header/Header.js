@@ -9,9 +9,11 @@ export default function Header () {
             <h3 id="nav-header-text" style={{color: "white"}}>Shop Skins!</h3>
             <Link to="/" className="link">Home</Link> | {" "}
             <Link to="/shoppingPage" className="link">Skins</Link>
-            <IconButton color="primary" aria-label="add to shopping cart">
-                <AddShoppingCartIcon />
-            </IconButton>
+            <Link to={"/cartPage"} className="link">
+                <IconButton color="primary" aria-label="add to shopping cart">
+                    <AddShoppingCartIcon />
+                </IconButton>
+            </Link>
         </nav>
     )
 }

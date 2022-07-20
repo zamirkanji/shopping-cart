@@ -1,0 +1,12 @@
+.list-container {
+    padding: 0;
+    /* margin: 25px; */
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.item-image {
+    width: 100px;
+    height: 100px;
+}

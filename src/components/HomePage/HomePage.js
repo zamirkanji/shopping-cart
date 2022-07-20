@@ -11,7 +11,7 @@ export default function HomePage() {
       <main className="main-container">
 
         <Items text_color={'white'}/>
-        
+
         <div>
           <p style={{
             color: "white"
@@ -19,12 +19,20 @@ export default function HomePage() {
             TEST
           </p>
         </div>
-        <button>
+        <button style={{
+          padding: '10px'
+        }}>
           <Link 
             to={'/shoppingPage'} 
             className="Link"
           />
+          SHOP NOW!
         </button>
+
+        <div>
+          {/* <img>'../assets/images/individual_packs/valorant-bundle-blastx.webp'</img> */}
+        </div>
+
       </main>
     </div>
   );

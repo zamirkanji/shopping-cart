@@ -1,12 +1,17 @@
 .nav-container {
-    flex: .25;
+    flex: .5;
     display: flex;
     background-color: rgba(0, 0, 0, 0.954);
 }
 
 .nav-container {
-    flex: 1;
+    flex: .5;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+}
+
+.link {
+    background-color: grey;
+    padding: 10px;
 }

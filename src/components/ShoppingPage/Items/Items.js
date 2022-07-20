@@ -1,4 +1,6 @@
 import skins from "../../../data/skinData";
+import Item from "./Item";
+import './Items.css';
 
 export default function Items ({text_color}) {
     const style = {
@@ -8,14 +10,8 @@ export default function Items ({text_color}) {
     return (
         <ul className="list-container">
             {skins.map(skin => {
-                return (
-                    <li className="item-container">
-                        <h5 style={{color: style.text_color}}>{skin.name}</h5>
-                        <img src={skin.image} alt="placeholder"></img>
-                        <section>{skin.description}</section>            
-                        <p>{skin.price}</p>
-                    </li>
-                )
+                console.log(skin);
+                return (<Item id={skin.id} name={skin.name} image={skin.image} price={skin.price} description={skin.description}/>)
             })}
         </ul>
     )   

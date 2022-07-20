@@ -1,4 +1,5 @@
-import blast from '../assets/images/individual_packs/valorant-bundle-blastx.webp'
+// import blast from '../assets/images/individual_packs/valorant-bundle-blastx.webp'
+// import blast from '../assets/images/individual_packs/valorant-bundle-blastx.webp'
 import elderflame from '../assets/images/individual_packs/valorant-elderflame-bundle.webp'
 import forsaken from '../assets/images/individual_packs/valorant-forsaken-bundle.webp'
 import glitchpop_2 from '../assets/images/individual_packs/valorant-glitchpop-2-bundle.webp'
@@ -14,7 +15,7 @@ const skins = [
     {
         id: 0,
         name: 'blast',
-        image: {blast},
+        image: '../assets/images/individual_packs/valorant-bundle-blastx.webp',
         price: 19.99,
         description: 'PlaceHolder Text' 
     },

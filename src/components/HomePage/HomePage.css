@@ -9,8 +9,14 @@
 
 .main-container {
     flex: .5;
-    background-color: black;
+    background-color: rgb(22, 29, 41);
     height: 100%;
+    gap: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .homepage-container {
