@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/shopping-cart/static/css/main.2329df4f.css",
-    "main.js": "/shopping-cart/static/js/main.6dd046af.js",
+    "main.css": "/shopping-cart/static/css/main.cac777a4.css",
+    "main.js": "/shopping-cart/static/js/main.c5d730a8.js",
     "static/js/787.d6fe38e8.chunk.js": "/shopping-cart/static/js/787.d6fe38e8.chunk.js",
     "static/media/valorant_background.jpg": "/shopping-cart/static/media/valorant_background.27983b5a822ac1544929.jpg",
     "static/media/valorant-sentinels-of-light-bundle.jpeg": "/shopping-cart/static/media/valorant-sentinels-of-light-bundle.53c67bef0b598ceedc85.jpeg",
     "static/media/valorant-glitchpop-2-bundle.webp": "/shopping-cart/static/media/valorant-glitchpop-2-bundle.27c83a7e29b3a9039b08.webp",
-    "static/media/valorant-bundle-blastx.webp": "/shopping-cart/static/media/valorant-bundle-blastx.8f2c023648ef9a1bd964.webp",
     "static/media/valorant-origin-bundle.webp": "/shopping-cart/static/media/valorant-origin-bundle.8848501f764f4959f1dd.webp",
     "static/media/valorant-glitchpop-bundle.webp": "/shopping-cart/static/media/valorant-glitchpop-bundle.8de31518509f6b73409e.webp",
     "static/media/valorant-forsaken-bundle.webp": "/shopping-cart/static/media/valorant-forsaken-bundle.7605ba1446af5cadac49.webp",
@@ -16,12 +15,12 @@
     "static/media/valorant-oni-bundle.webp": "/shopping-cart/static/media/valorant-oni-bundle.ff0ab9f12542f82f99cd.webp",
     "static/media/valorant-singularity-bundle.webp": "/shopping-cart/static/media/valorant-singularity-bundle.1749cd4cd5b012594a36.webp",
     "index.html": "/shopping-cart/index.html",
-    "main.2329df4f.css.map": "/shopping-cart/static/css/main.2329df4f.css.map",
-    "main.6dd046af.js.map": "/shopping-cart/static/js/main.6dd046af.js.map",
+    "main.cac777a4.css.map": "/shopping-cart/static/css/main.cac777a4.css.map",
+    "main.c5d730a8.js.map": "/shopping-cart/static/js/main.c5d730a8.js.map",
     "787.d6fe38e8.chunk.js.map": "/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2329df4f.css",
-    "static/js/main.6dd046af.js"
+    "static/css/main.cac777a4.css",
+    "static/js/main.c5d730a8.js"
   ]
 }
